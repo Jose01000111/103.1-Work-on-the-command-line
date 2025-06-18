@@ -29,9 +29,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 - 🔹 View existing environment variables 🔍
   
-  ![1SeEdMu](https://github.com/user-attachments/assets/11ae8ef7-057e-48af-9ce1-b57cdffa5826)
+![1SeEdMu](https://github.com/user-attachments/assets/11ae8ef7-057e-48af-9ce1-b57cdffa5826)
 
-  ![TRdo7sX](https://github.com/user-attachments/assets/3dfa9147-0f25-46c9-8529-f3ac51a11830)
+![TRdo7sX](https://github.com/user-attachments/assets/3dfa9147-0f25-46c9-8529-f3ac51a11830)
 
 - 🔹 Create and export your own variable 🧪
   
@@ -39,7 +39,7 @@ I’ve included some helpful links to guide you through the lab and for studying
   
 - 🔹 Modify a variable ✏️
   
-  ![2LGcUVL](https://github.com/user-attachments/assets/4ab7164b-e33e-47a8-8439-5132a90cb90b)
+![2LGcUVL](https://github.com/user-attachments/assets/4ab7164b-e33e-47a8-8439-5132a90cb90b)
 
 - 🔹 Unset a variable ❌  
 
@@ -51,7 +51,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 - 🔹 View and search command history 📜
 
-  ![6O1MrIe](https://github.com/user-attachments/assets/2c5ed195-cb9c-41ba-b01d-b0d788b6b637)
+![6O1MrIe](https://github.com/user-attachments/assets/2c5ed195-cb9c-41ba-b01d-b0d788b6b637)
 
 - 🔹 Re-run the last command 🔁
 
@@ -63,11 +63,17 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 - 🔹 Check if a command exists and its type 🧭
 
-  
-  
+![PRPeS0b](https://github.com/user-attachments/assets/a6b59f6e-5e40-45f3-8232-8402bdf4c991)
+
 - 🔹 Run a command with full path (outside shell PATH) 🛣️
-    
-- 🔹 Add custom scripts to your PATH 🧰  
+
+![UI5sANS](https://github.com/user-attachments/assets/b32898f7-f5bd-488e-928b-55158bdfbe07)
+
+- 🔹 Add custom scripts to your PATH 🧰
+
+![03CudtL](https://github.com/user-attachments/assets/562c3175-4bd6-45ae-bc92-c2a92bf5788d)
+
+![ICNIxTn](https://github.com/user-attachments/assets/adc34de4-fc64-4af8-a992-39939bc60142)
 
 ---
 
