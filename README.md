@@ -9,7 +9,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [LAB 103.1](https://1drv.ms/w/c/354f1c8d534fbced/EQgktcLt-LRDidB3qldVCcQB7WyOKqsKGRHnzlMPwFcUlA?e=zFbhYv)
 
-[NOTES 103.1]()
+[NOTES 103.1](https://1drv.ms/w/c/354f1c8d534fbced/Ea2TBxbPO0dJi7e1G0y7vR4B3NVF5fJuUfjPnMOjnu0Rtw?e=GxnGoj)
 
 ---
 
