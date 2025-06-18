@@ -15,38 +15,67 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 ## 1️⃣ Basic Shell Commands
 
-🔹 Run commands to gather system and user information
+- 🔹 Run commands to gather system and user information 🖥️
+  
+![kPlqF7S](https://github.com/user-attachments/assets/731cff88-28a6-47cc-9b59-c63db9d67c90)
 
-🔹 Combine multiple commands in one line
+- 🔹 Combine multiple commands in one line ➕
+- 
+![QV211mH](https://github.com/user-attachments/assets/46e0b35c-3407-472a-b7e6-27db33febe04)
+
+---
 
 ## 2️⃣ Shell Environment Variables
 
-🔹 View existing environment variables
+- 🔹 View existing environment variables 🔍
+  
+  ![1SeEdMu](https://github.com/user-attachments/assets/11ae8ef7-057e-48af-9ce1-b57cdffa5826)
 
-🔹 Create and export your own variable
+  ![TRdo7sX](https://github.com/user-attachments/assets/3dfa9147-0f25-46c9-8529-f3ac51a11830)
 
-🔹 Modify a variable
+- 🔹 Create and export your own variable 🧪
+  
+![3d27qpP](https://github.com/user-attachments/assets/7caef6cf-c3c3-44d2-b0fe-7c74c68394ba)
+  
+- 🔹 Modify a variable ✏️
+  
+  ![2LGcUVL](https://github.com/user-attachments/assets/4ab7164b-e33e-47a8-8439-5132a90cb90b)
 
-🔹 Unset a variable
+- 🔹 Unset a variable ❌  
+
+![UrsSvZh](https://github.com/user-attachments/assets/ebcc911f-a127-47cc-bc3d-b75168101c0d)
+
+---
 
 ## 3️⃣ Command History
 
-🔹 View and search command history
+- 🔹 View and search command history 📜
 
-🔹 Re-run the last command
+  ![6O1MrIe](https://github.com/user-attachments/assets/2c5ed195-cb9c-41ba-b01d-b0d788b6b637)
 
-🔹 Search history with reverse search
+- 🔹 Re-run the last command 🔁
+
+![8Uyz2U2](https://github.com/user-attachments/assets/728caf00-7402-40f5-96b9-5b5e0bccd5b1)
+
+---
 
 ## 4️⃣ Invoke Commands from the Path
 
-🔹 Check if a command exists and its type
+- 🔹 Check if a command exists and its type 🧭
 
-🔹 Run a command with full path (outside shell PATH)
+  
+  
+- 🔹 Run a command with full path (outside shell PATH) 🛣️
+    
+- 🔹 Add custom scripts to your PATH 🧰  
 
-🔹 Add custom scripts to your PATH
+---
 
 ## 📘 What I Learned
-This lab strengthened my understanding of the Bash shell environment 👨‍💻. I now feel more confident using variables, recalling commands with history, navigating the file system, and invoking commands from inside and outside the shell’s PATH. These skills are crucial for scripting and automation tasks I’ll encounter in real-world Linux system administration. 🚀
+
+This lab strengthened my understanding of the Bash shell environment 👨‍💻.  
+I now feel more confident using variables, recalling commands with history, navigating the file system, and invoking commands from inside and outside the shell’s PATH.  
+These skills are crucial for scripting and automation tasks I’ll encounter in real-world Linux system administration. 🚀
 
 
 
